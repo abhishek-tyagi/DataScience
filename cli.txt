@@ -1,0 +1,20 @@
+CLI- Command line interface.
+GIT Bash - Git tool for windows 
+Git Commands - Unix commands for windows. 
+Some Commands 
+	
+	pwd- print current directory. Gets the current direcotry the user in.
+	Clear- clear the command shell. 
+	ls- list all the files and folders in the current directory 
+	ls -a- list all the hidden files as well
+	ls -al- list information about all the files and folders
+	cd- change directory
+	mkdir- to create new directories
+	touch- creates a blank text file. 
+	cp- copy files from a folder to another 
+	cp -r- copy contents of a folder to another
+	rm- delete files. 
+	rm -r- delete all the files in the directory and the contents. 
+	mv- move the file to a directory and remove it from the source.
+	exit- exit git bash. 
+	 
